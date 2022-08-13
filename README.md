@@ -56,7 +56,8 @@ LinearRegression
 # Launch
 ![image](https://user-images.githubusercontent.com/106155354/184474198-7173276d-58f2-486d-81b7-10189e2cbbeb.png)
 
-you looked above the all process step by step. Which i executed all processed on jupyter notebook. then we have predicted ML algorithm that's a Ransom forest classifier with 99% accuracy.
+you looked above the all process step by step. Which i executed all processed on jupyter notebook. then we have predicted ML algorithm that's a Ransom forest classifier with 99% accuracy. Best fit algorithm is Random Forest Classifier for 
+almost good prediction accuracy for Thyroid Disease Detection
 
 
 
