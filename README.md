@@ -36,13 +36,21 @@ matplotlib  3.5.3
 seaborn     0.11.2
 
 Firstly you have to necessary to import all above libraries. it will help when your lunching the project.
+
 Apart from this i tried to various Machine learning algorithms......
+
 DecisionTreeClassifier
+
 KNeighborsClassifier
+
 naive_bayes (GaussianNB)
+
 support vector machine
+
 LogisticRegression
+
 RandomForestClassifier
+
 LinearRegression
 
 
