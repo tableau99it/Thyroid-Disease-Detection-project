@@ -22,7 +22,7 @@ medical diagnosis and prediction, with an onset that is difficult to forecast in
 given 99% accuracy predicted disease diagnosis.
 
 # Technologies:-
-I used the python language and Machine learning as well as worked on jupyter notebook
+I used the python language and Machine learning as well as worked on jupyter notebook.
 
 Python's version - 3.10.6 
 and within this have to used python libraries and as well as versions like a.... 
@@ -30,6 +30,7 @@ pandas      1.4.3
 numpy       1.23.1
 matplotlib  3.5.3
 seaborn     0.11.2
+
 Firstly you have to necessary to import all above libraries. it will help when your lunching the project.
 Apart from this i tried to various Machine learning algorithms......
 DecisionTreeClassifier
