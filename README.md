@@ -23,6 +23,7 @@ given 99% accuracy predicted disease diagnosis.
 
 # Technologies:-
 I used the python language and Machine learning as well as worked on jupyter notebook
+
 Python's version - 3.10.6 
 and within this have to used python libraries and as well as versions like a.... 
 pandas      1.4.3
