@@ -65,9 +65,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 df = pd.read_csv("d:/data/hypothyroid.csv")
+
 df.head()
 
 x = df.drop('Label',axis=1)
+
 y = df['Label']
 
 from sklearn.model_selection import train_test_split
